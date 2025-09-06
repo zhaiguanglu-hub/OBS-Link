@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "haishinkit.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shogo4405/HaishinKit.swift",
+      "state" : {
+        "revision" : "8c9f4c7a1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f",
+        "version" : "1.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
