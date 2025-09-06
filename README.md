@@ -1,2 +1,2 @@
 # OBS-Link
-It is a iOS platform OBS software
+It is an iOS platform OBS software
